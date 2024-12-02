@@ -1,0 +1,115 @@
+/* Bebas New Start */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* Bebas New End */
+
+
+/* Fornt Name is Gruppo Start  */
+
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
+
+/* Fornt Name is Gruppo End  */
+
+
+
+
+
+/* Font name is Waterfall start  */
+
+@import url('https://fonts.googleapis.com/css2?family=Waterfall&display=swap');
+
+/* Font name is Waterfall End  */
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:70%;
+    margin: 0 auto;
+    background-color: rgb(239, 239, 239);
+}
+
+.head-line{
+    text-align: center;
+    font-family: "Bebas Neue", serif;
+    font-weight:400;
+    font-style: normal;
+    font-size:25px
+      
+}
+.pera{
+    font-family: "Gruppo", serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 4px;
+    font-size: 20px;
+}
+
+.Mission{
+    width:25%;
+    background-color: #ff7200;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.Mission h1{
+    text-align: center;
+}
+
+.dec-pera{
+    padding: 0 5px;
+    width: 70%;
+    background-color: darkseagreen;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.description{
+    margin-top: 40px;
+}
+.font-style-div{
+    display: flex;
+}
+h3{
+    text-align: center;
+    background-color: #ff7200;
+    margin: 10px;
+}
+.pera-2{
+    padding: 10px;
+    font-family: Bebas Neue;
+    text-align: justify;
+    
+}
+.pera-3{
+    padding: 10px;
+    font-family: Gruppo;
+    text-align: justify;
+
+}
+.pera-4{
+    padding: 10px;
+    font-size: 20px;
+    font-family: "Waterfall",cursive;
+
+}
+span{
+    background-color: #ff7200;
+    padding: 0 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 1.5rem;
+}
+.font-style-01{
+    background-color: rgb(202, 201, 201);
+}
+.font-style-02{
+    background-color: rgb(245, 172, 172);
+}
+.font-style-03{
+    background-color: rgb(222, 255, 146);
+}
